@@ -1,6 +1,10 @@
 # React Native Chat App
 
-This is a real-time chat application built using React Native for the frontend, Node.js for the backend, and Redis for the pub/sub messaging model.
+This is a real-time chat application built using [React Native](https://reactnative.dev/) for the frontend, Node.js for the backend, and Redis for the pub/sub messaging model.
+
+[Socket.io](https://socket.io/) was used for spinning up socket connections between client and server
+
+[Redis insights](https://redis.com/redis-enterprise/redis-insight/) can be used for visualizing redis cache
 
 ## Features
 
